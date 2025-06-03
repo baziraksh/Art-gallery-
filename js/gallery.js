@@ -2,48 +2,48 @@
 const artworks = [
     {
         id: 1,
-        title: "Modern Expressions",
-        artist: "John Doe",
+        title: "sketch art",
+        artist: "By Akash",
         category: "painting",
         image: "images/img1.webp",
         description: "A vibrant exploration of modern art expressions."
     },
     {
         id: 2,
-        title: "Digital Dreams",
-        artist: "Sarah Wilson",
+        title: "sketch art",
+        artist: "By Akash",
         category: "digital",
         image: "images/img2.webp",
         description: "Digital artwork pushing the boundaries of imagination."
     },
     {
         id: 3,
-        title: "Nature's Beauty",
-        artist: "Michael Chen",
+        title: "sketch art",
+        artist: "By Akash",
         category: "photography",
         image: "images/img3.webp",
         description: "Capturing the essence of natural beauty."
     },
     {
         id: 4,
-        title: "Abstract Thoughts",
-        artist: "Emma Davis",
+        title: "sketch art",
+        artist: "By Akash",
         category: "painting",
         image: "images/img4.webp",
         description: "Abstract interpretation of human thoughts."
     },
     {
         id: 5,
-        title: "Digital Landscape",
-        artist: "Alex Thompson",
+        title: "sketch art",
+        artist: "By Akash",
         category: "digital",
         image: "images/img5.webp",
         description: "A futuristic view of digital landscapes."
     },
     {
         id: 6,
-        title: "Urban Life",
-        artist: "Jessica Brown",
+        title: "sketch art",
+        artist: "By Akash",
         category: "photography",
         image: "images/img6.webp",
         description: "Capturing the essence of modern urban life."
